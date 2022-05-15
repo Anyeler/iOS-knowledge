@@ -11,7 +11,9 @@
 > 欢迎大家提PR，一起完善。
 
 ## 知识脑图
-![iOS-knowledge](./assets/iOS-knowledge.png)
+![iOS-knowledge](assets/iOS-knowledge.png)
+
+![iOS-knowledge](assets/iOS-knowledge.jpg)
 
 
 ## 推荐书籍
