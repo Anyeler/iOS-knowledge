@@ -13,7 +13,7 @@
 ## 知识脑图
 ![iOS-knowledge](assets/iOS-knowledge.png)
 
-![iOS-knowledge](assets/iOS-knowledge.jpg)
+![iOS-knowledge](https://raw.githubusercontent.com/Anyeler/iOS-knowledge/main/assets/iOS-knowledge.jpg)
 
 
 ## 推荐书籍
