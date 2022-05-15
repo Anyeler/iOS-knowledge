@@ -1,8 +1,4 @@
 <p align='center'>
-<img src='https://github.com/Anyeler/anyeler.github.io/blob/master/img/post-bg-map.jpg'>
-</p>
-
-<p align='center'>
 <img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
 <img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
 <img src="https://img.shields.io/badge/language-Swift-abcdef.svg">
@@ -15,8 +11,7 @@
 > 欢迎大家提PR，一起完善。
 
 ## 知识脑图
-![iOS知识梳理](assets/iOS%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.svg)
-
+![iOS知识梳理](assets/iOS%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.png)
 
 ## 推荐书籍
 - 《Effective Objective-C 2.0》
