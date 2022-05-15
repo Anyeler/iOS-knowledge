@@ -13,9 +13,6 @@
 ## 知识脑图
 ![iOS-knowledge](assets/iOS-knowledge.png)
 
-![iOS-knowledge](https://raw.githubusercontent.com/Anyeler/iOS-knowledge/main/assets/iOS-knowledge.jpg)
-
-
 ## 推荐书籍
 - 《Effective Objective-C 2.0》
 - 《Objective-C 高级编程》
