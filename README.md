@@ -11,7 +11,8 @@
 > 欢迎大家提PR，一起完善。
 
 ## 知识脑图
-![iOS知识梳理](assets/iOS%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.png)
+![iOS-knowledge](./assets/iOS-knowledge.png)
+
 
 ## 推荐书籍
 - 《Effective Objective-C 2.0》
